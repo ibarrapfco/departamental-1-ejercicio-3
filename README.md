@@ -68,5 +68,6 @@ if(lista=="manzana" || lista=="peras" || lista=="garbanzos" || lista=="lentejas"
     print(paste("Pago con descuento aplicado $",otroMedioPago,sep=" "))
   } 
 }else{
-  print("No existe informaciÃ³n de este producto")
+  print("No existe información de este producto")
 }
+
